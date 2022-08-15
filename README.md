@@ -1,7 +1,7 @@
 qa-challenge-clark
 Easy way to launch:
 
-Download the project.
-Reload maven dependencies
-Install Cucumber plugin
-Run it via RunCucumberTest
+1) Download the project.
+2) Reload maven dependencies
+3) Install Cucumber plugin
+4) Run it via RunCucumberTest
